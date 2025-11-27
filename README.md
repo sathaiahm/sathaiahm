@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Sathaiah</h1>
+<h1 align="center">Hey, I'm Sathaiah 👋</h1>
 
 <p align="center">
   <em>AI Engineer & Full-Stack Developer — building real systems with clean, scalable Application.</em>
