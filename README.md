@@ -8,7 +8,7 @@
 
 ### 🧠 Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,mysql,fastapi,javascript,react,nodejs,express,mongodb,git,docker&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,sklearn,pytorch,tensorflow,git,javascript,react,nodejs,express,mongodb,tailwind,docker&perline=7" />
 </p>  
 
 ---
