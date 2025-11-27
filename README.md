@@ -1,28 +1,24 @@
-## About Me
+<h1 align="center">Hey, I'm Sathaiah</h1>
 
-Hi, I'm SATHAIAH M, a passionate full-stack developer with a strong interest in building scalable, user-friendly web applications. Alongside web development, I explore Artificial Intelligence, Large Language Models (LLMs), and Machine Learning to create intelligent, impactful solutions. I love working on projects that solve real-world problems, continuously improving my DSA and coding skills while staying updated with the latest tools and frameworks.
+<p align="center">
+  <em>AI & Full-Stack Developer — building scalable systems with clean code and real engineering.</em>
+</p>
 
-## My Skills
+---
 
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
-<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
-<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"> 
-<img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff"> 
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"> 
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
+### 🧠 Tech Toolbox
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,postgres,docker,cpp,pytorch&perline=7" />
+</p>
+
+---
+
+### What I Do
+- Backend Engineering with performance in mind  
+- Machine Learning models that serve real-world use cases  
+- Full-stack applications with production-grade architecture  
+
+---
 
 ## GitHub Stats
 
