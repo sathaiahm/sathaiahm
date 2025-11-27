@@ -1,22 +1,23 @@
 <h1 align="center">Hey, I'm Sathaiah</h1>
 
 <p align="center">
-  <em>AI & Full-Stack Developer — building scalable systems with clean code and real engineering.</em>
+  <em>AI Engineer & Full-Stack Developer — building real systems with clean, scalable Application.</em>
 </p>
 
 ---
 
 ### 🧠 Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,postgres,docker,cpp,pytorch&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,fastapi,mysql,tensorflow,pytorch,docker&perline=7" />
 </p>
 
 ---
 
 ### What I Do
-- Backend Engineering with performance in mind  
-- Machine Learning models that serve real-world use cases  
-- Full-stack applications with production-grade architecture  
+- Build backend systems with performance and clean architecture  
+- Create ML models for real-world problems  
+- Develop full-stack applications ready for production  
+- Work with APIs, databases, and cloud tools 
 
 ---
 
@@ -30,4 +31,4 @@
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/sathaiah-m/" target="_blank">SATHAIAH M</a> Email: sathaiahm85@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/sathaiah-m/" target="_blank">sathaiahm</a> Email: sathaiahm85@gmail.com</p>
