@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sathaiah 👋</h1>
 
 <p align="center">
-  <em>AI Engineer & Full-Stack Developer — building real systems with clean, scalable Application.</em>
+  <em>Backend Engineer with AI — designing scalable systems and production-ready applications.</em>
 </p>
 
 ---
