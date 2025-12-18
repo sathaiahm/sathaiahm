@@ -14,10 +14,10 @@
 ---
 
 ### What I Do
-- Build backend systems with performance and clean architecture  
-- Create ML models for real-world problems  
-- Develop full-stack applications ready for production  
-- Work with APIs, databases, and cloud tools 
+- Build scalable backend systems with clean architecture and high performance
+- Integrate GenAI and intelligent features into real-world backend applications
+- Design and develop production-ready backend services and APIs
+- Work with APIs, databases, containerization, and cloud platforms to deploy reliable systems
 
 ---
 
